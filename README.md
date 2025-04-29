@@ -10,3 +10,8 @@
 Yen-star/Yen-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+git clone https://github.com/Yen-star/termux-whatsapp-bot.git
+cd termux-whatsapp-bot
+https://github.com/Yen-star
+git clone https://github.com/Yen-star/termux-whatsapp-bot.git
+cd termux-whatsapp-bot
